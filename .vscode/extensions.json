@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "openai.openai-chatgpt-adhoc",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "genaiscript.genaiscript-vscode",
+        "ms-azuretools.vscode-azure-github-copilot"
+    ]
+}
